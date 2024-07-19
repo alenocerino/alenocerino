@@ -1,46 +1,48 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/FoVzfcqCDSb7zCynOp/giphy.gif" width="240" height="240" alt="Giflytics">
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="480" height="269" alt="Gif de monitor">
 </div>
 
 <p align="center">
-  <a href="https://giphy.com/gifs/Giflytics-abjahanbin-FoVzfcqCDSb7zCynOp">Vía GIPHY</a>
+  <a href="https://giphy.com/gifs/screen-monitor-closeup-26tn33aiTi1jkl6H6">Vía GIPHY</a>
 </p>
 
-## Hi there 👋
+<h1 align="center">¡Hola! 👋</h1>
 
-Welcome to my GitHub profile! I'm Alejandro, a coding enthusiast with a passion for data analysis and software development. 🚀
+<p align="center">
+  Soy Alejandro, un entusiasta del código y la programación con una sólida formación en análisis de datos. Me apasiona descubrir patrones ocultos en los datos y convertir números en información valiosa. 🚀
+</p>
 
-### About Me
+### Sobre Mí
 
-- 🔭 I’m currently working on various data analysis projects and enhancing my Python and SQL skills.
-- 🌱 I’m currently learning about machine learning and data visualization techniques.
-- 👯 I’m looking to collaborate on innovative projects that involve data science and software engineering.
-- 🤔 I’m interested in contributing to open-source projects and exploring new technologies.
-- 💬 Ask me about Python, SQL, or anything related to data and programming.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile) | [Twitter](https://twitter.com/your-twitter-handle)
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love combining data insights with creative problem-solving!
+- 🔭 Actualmente estoy trabajando en proyectos de análisis de datos y perfeccionando mis habilidades en Python y SQL.
+- 🌱 Estoy aprendiendo sobre técnicas de machine learning y visualización de datos.
+- 👯 Busco colaborar en proyectos innovadores que involucren ciencia de datos y desarrollo de software.
+- 🤔 Me interesa contribuir a proyectos de código abierto y explorar nuevas tecnologías.
+- 💬 Pregúntame sobre Python, SQL o cualquier cosa relacionada con datos y programación.
+- 📫 Cómo contactarme: [LinkedIn](https://www.linkedin.com/in/tu-perfil-linkedin) | [Twitter](https://twitter.com/tu-handle-twitter)
+- 😄 Pronombres: Él
+- ⚡ Dato curioso: ¡Me encanta combinar los conocimientos de datos con la resolución creativa de problemas!
 
-### 🛠️ Technologies & Tools
+### 🛠️ Tecnologías y Herramientas
 
-- **Languages**: Python, SQL
-- **Tools**: Jupyter Notebook, Pandas, NumPy, Matplotlib, Scikit-Learn
-- **Databases**: MySQL, PostgreSQL
+- **Lenguajes**: Python, SQL
+- **Herramientas**: Jupyter Notebook, Pandas, NumPy, Matplotlib, Scikit-Learn
+- **Bases de Datos**: MySQL, PostgreSQL
 
-### 📈 My GitHub Stats
+### 📈 Mis Estadísticas de GitHub
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=alenocerino&show_icons=true&hide_title=true&count_private=true&hide=prs&bg_color=ffffff&text_color=333333&icon_color=2b82f0&title_color=000000" alt="GitHub Stats">
 </div>
 
-### 📊 Most Used Languages
+### 📊 Lenguajes Más Usados
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alenocerino&layout=compact&bg_color=ffffff&text_color=333333&icon_color=2b82f0" alt="Most Used Languages">
 </div>
 
-Feel free to check out my repositories and contribute to any of the projects that interest you!
+¡Siéntete libre de explorar mis repositorios y contribuir a cualquier proyecto que te interese!
 
 ---
 
-✨ **Have a great day!** ✨
+✨ **¡Que tengas un gran día!** ✨
