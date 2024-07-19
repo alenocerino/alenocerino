@@ -29,18 +29,6 @@
 - **Herramientas y Librerías**: Jupyter Notebook, Pandas, NumPy, Matplotlib, Scikit-Learn, Tkinter, Streamlit
 - **Bases de Datos**: MySQL, PostgreSQL
 
-### 📈 Mis Estadísticas de GitHub
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alenocerino&show_icons=true&hide_title=true&count_private=true&hide=prs&bg_color=ffffff&text_color=333333&icon_color=2b82f0&title_color=000000" alt="GitHub Stats">
-</div>
-
-### 📊 Lenguajes Más Usados
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alenocerino&layout=compact&bg_color=ffffff&text_color=333333&icon_color=2b82f0" alt="Most Used Languages">
-</div>
-
 ¡Siéntete libre de explorar mis repositorios y contribuir a cualquier proyecto que te interese!
 
 ---
