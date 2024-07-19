@@ -1,6 +1,11 @@
-![Giflytics](https://media.giphy.com/media/FoVzfcqCDSb7zCynOp/giphy.gif)
+<div align="center">
+  <img src="https://media.giphy.com/media/FoVzfcqCDSb7zCynOp/giphy.gif" width="480" height="480" alt="Giflytics">
+</div>
 
-_Vía [GIPHY](https://giphy.com/gifs/Giflytics-abjahanbin-FoVzfcqCDSb7zCynOp)_
+<p align="center">
+  <a href="https://giphy.com/gifs/Giflytics-abjahanbin-FoVzfcqCDSb7zCynOp">Vía GIPHY</a>
+</p>
+
 
 ## Hi there 👋
 
