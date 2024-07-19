@@ -9,7 +9,7 @@
 <h1 align="center">¡Hola! 👋</h1>
 
 <p align="center">
-  Soy Alejandro, un entusiasta del código y la programación con una sólida formación en análisis de datos. Me apasiona descubrir patrones ocultos en los datos y convertir números en información valiosa. 🚀
+  Soy Alejandro, un entusiasta del código y la programación con una sólida formación en análisis de datos. Me apasiona descubrir patrones ocultos en los datos y convertir números en información valiosa. 🚀 Me encanta aprender constantemente y también disfruto mucho enseñando a otros. Siempre estoy dispuesto a ayudar y colaborar en proyectos, porque creo que compartir conocimientos es clave para crecer en este campo.
 </p>
 
 ### Sobre Mí
