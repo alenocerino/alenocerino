@@ -1,10 +1,10 @@
 <h1>¡Hola! Mi nombre es Alejandro👋</h1>
 <div align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100%" alt="Gif de monitor">
+  <iframe src="https://giphy.com/embed/bGgsc5mWoryfgKBx1u" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 </div>
 
 <p align="center">
-  <a href="https://giphy.com/gifs/screen-monitor-closeup-26tn33aiTi1jkl6H6">Vía GIPHY</a>
+  <a href="https://giphy.com/gifs/computador-gu-tecnology-bGgsc5mWoryfgKBx1u">Vía GIPHY</a>
 </p>
 
 <p align="center">
