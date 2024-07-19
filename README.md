@@ -1,3 +1,7 @@
+![Giflytics](https://media.giphy.com/media/FoVzfcqCDSb7zCynOp/giphy.gif)
+
+_Vía [GIPHY](https://giphy.com/gifs/Giflytics-abjahanbin-FoVzfcqCDSb7zCynOp)_
+
 ## Hi there 👋
 
 <!--
