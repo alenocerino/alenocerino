@@ -1,6 +1,6 @@
 <h1>¡Hola! Mi nombre es Alejandro👋</h1>
 <div align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100%" alt="Gif de monitor">
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100%" height="300"alt="Gif de monitor">
 </div>
 
 <p align="center">
