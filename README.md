@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="480" height="269" alt="Gif de monitor">
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100%" alt="Gif de monitor">
 </div>
 
 <p align="center">
@@ -16,17 +16,17 @@
 
 - 🔭 Actualmente estoy trabajando en proyectos de análisis de datos y perfeccionando mis habilidades en Python y SQL.
 - 🌱 Estoy aprendiendo sobre técnicas de machine learning y visualización de datos.
-- 👯 Busco colaborar en proyectos innovadores que involucren ciencia de datos y desarrollo de software.
-- 🤔 Me interesa contribuir a proyectos de código abierto y explorar nuevas tecnologías.
-- 💬 Pregúntame sobre Python, SQL o cualquier cosa relacionada con datos y programación.
-- 📫 Cómo contactarme: [LinkedIn](https://www.linkedin.com/in/tu-perfil-linkedin) | [Twitter](https://twitter.com/tu-handle-twitter)
+- 👯 Estoy abierto a colaborar en proyectos innovadores que involucren ciencia de datos, desarrollo de software, y herramientas como Tkinter y Streamlit.
+- 🤔 Busco oportunidades laborales en el campo de la programación y el análisis de datos.
+- 💬 Pregúntame sobre Python, SQL, Tkinter, Streamlit, o cualquier otra tecnología que te interese.
+- 📫 Cómo contactarme: [LinkedIn](https://www.linkedin.com/in/tu-perfil-linkedin) 
 - 😄 Pronombres: Él
 - ⚡ Dato curioso: ¡Me encanta combinar los conocimientos de datos con la resolución creativa de problemas!
 
 ### 🛠️ Tecnologías y Herramientas
 
 - **Lenguajes**: Python, SQL
-- **Herramientas**: Jupyter Notebook, Pandas, NumPy, Matplotlib, Scikit-Learn
+- **Herramientas y Librerías**: Jupyter Notebook, Pandas, NumPy, Matplotlib, Scikit-Learn, Tkinter, Streamlit
 - **Bases de Datos**: MySQL, PostgreSQL
 
 ### 📈 Mis Estadísticas de GitHub
