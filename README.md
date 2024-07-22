@@ -18,7 +18,7 @@
 - 👯 Estoy abierto a colaborar en proyectos innovadores que involucren ciencia de datos, desarrollo de software, y herramientas como Tkinter y Streamlit.
 - 🤔 Busco oportunidades laborales en el campo de la programación y el análisis de datos.
 - 💬 Pregúntame sobre Python, SQL, Tkinter, Streamlit, JavaScript, o cualquier otra tecnología que te interese.
-- 📫 Cómo contactarme: [LinkedIn](https://www.linkedin.com/in/tu-perfil-linkedin) | 📧 [alejandronocerino27@gmail.com](mailto:alejandronocerino27@gmail.com)
+- 📫 Cómo contactarme: [LinkedIn]([https://www.linkedin.com/in/tu-perfil-linkedin](https://www.linkedin.com/in/alejandro-nocerino-17a77bb0/)) | 📧 [alejandronocerino27@gmail.com](mailto:alejandronocerino27@gmail.com)
 - ⚡ Dato curioso: ¡Soy un fanático de la inteligencia artificial! He trabajado en un emocionante proyecto de creación de un chatbot para un ayuntamiento, mejorando la experiencia turística mediante IA. Puedes leer más sobre el proyecto y verlo en acción aquí: [Noticia sobre el chatbot](https://www.sepulveda.es/actualidad-municipal/-/asset_publisher/hr5A/content/sep%25C3%25BAlveda-apuesta-por-la-inteligencia-artificial-para-mejorar-la-experiencia-tur%25C3%25ADstica).
 
 ### 🛠️ Tecnologías y Herramientas
